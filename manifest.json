@@ -1,0 +1,9 @@
+{
+  "name": "Fitbit Interiors Kampala — Custom Curtains, Sheer Fabrics, Rods & Modern Rugs",
+  "short_name": "Fitbit Interiors",
+  "description": "Supply, precision tailoring, and installation of custom blackout curtains, sheer fabrics, ceiling tracks, rods, and modern rugs across Kampala & Uganda.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#FAF7F2",
+  "theme_color": "#141210"
+}

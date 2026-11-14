@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://fmihaf30-ux.github.io/fitbit-interiors-website/sitemap.xml
